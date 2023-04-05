@@ -1,0 +1,23 @@
+{
+  "name": "kohana.ai",
+  "version": "1.0.0",
+  "description": "Public site for Kohana AI",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohana-digital/kohana.ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kohana-digital/kohana.ai/issues"
+  },
+  "homepage": "https://github.com/kohana-digital/kohana.ai#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

@@ -13,8 +13,13 @@
 
 .hero
 {
-    background-image: url('./images/geo-hero.jpeg');
+    background-image: url('/assets/images/geo-hero.jpeg');
     background-repeat: no-repeat;
     background-color: white;
     background-size: cover;
+}
+
+.is-size-massive
+{
+    font-size: 6rem;
 }
