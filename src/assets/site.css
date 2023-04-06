@@ -19,7 +19,28 @@
     background-size: cover;
 }
 
+a.navbar-item:hover 
+{
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+.content ol li,
+.content p {
+    font-size: 1.2em;
+}
+
 .is-size-massive
 {
     font-size: 6rem;
+}
+
+.pt-10
+{
+    padding-top: 10rem;
+}
+
+.pb-10
+{
+    padding-bottom: 10rem;
 }
